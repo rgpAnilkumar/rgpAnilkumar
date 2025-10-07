@@ -7,6 +7,11 @@
 
 💡 Skills: Power BI | SQL | Python | Generative AI
 
+projects: capstone , •	Built dashboards in Power BI to analyze and visualize business data.
+•	Developed predictive models in Python for machine learning tasks.
+•	Explored Generative AI tools and created AI agent workflows for automation.
+
+
 🚀 I love turning data into insights and ideas into intelligent solutions.
 📈 Always learning, building, and exploring AI-driven possibilities.
 🔗 Your LinkedIn profile link (https://www.linkedin.com/in/roshan-gipson-/)
