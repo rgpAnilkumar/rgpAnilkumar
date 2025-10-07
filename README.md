@@ -1,16 +1,16 @@
-## Hi there 👋
+ 
+👋 Hi there, I'm Muppasani Anil Kumar
 
-<!--
-**rgpAnilkumar/rgpAnilkumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Passionate Data Science & GenAI Enthusiast
+🎓 Completed Data Science Bootcamp @ Odin School
+🤖 Certified Generative AI Mastermind @ Outskill
 
-Here are some ideas to get you started:
+💡 Skills: Power BI | SQL | Python | Generative AI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 I love turning data into insights and ideas into intelligent solutions.
+📈 Always learning, building, and exploring AI-driven possibilities.
+🔗 Your LinkedIn profile link (https://www.linkedin.com/in/roshan-gipson-/)
+
+🧠 Your GitHub username or profile link (https://github.com/rgpAnilkumar/rgpAnilkumar/ )
+
+📧 Your email addres (MuppasanianilKumar199@gmail.com )
